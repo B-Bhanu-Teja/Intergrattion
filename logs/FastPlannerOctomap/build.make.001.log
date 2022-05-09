@@ -1,0 +1,12 @@
+[  7%] [32m[1mLinking CXX executable /home/traveller/Integration/devel/.private/FastPlannerOctomap/lib/FastPlannerOctomap/queryPt[0m
+[ 14%] [32m[1mLinking CXX executable /home/traveller/Integration/devel/.private/FastPlannerOctomap/lib/FastPlannerOctomap/Controller[0m
+[ 21%] [32m[1mLinking CXX executable /home/traveller/Integration/devel/.private/FastPlannerOctomap/lib/FastPlannerOctomap/Planner[0m
+[ 28%] [32m[1mLinking CXX executable /home/traveller/Integration/devel/.private/FastPlannerOctomap/lib/FastPlannerOctomap/pcNoise[0m
+[ 35%] Built target Controller
+[ 42%] Built target queryPt
+[ 50%] Built target pcNoise
+[ 57%] [32m[1mLinking CXX executable /home/traveller/Integration/devel/.private/FastPlannerOctomap/lib/FastPlannerOctomap/pubCamPose[0m
+[ 64%] [32m[1mLinking CXX executable /home/traveller/Integration/devel/.private/FastPlannerOctomap/lib/FastPlannerOctomap/noYawPlanner[0m
+[ 78%] Built target Planner
+[ 85%] Built target pubCamPose
+[100%] Built target noYawPlanner

@@ -1,0 +1,1 @@
+/home/traveller/Integration/devel/.private/avoidance/lib/pkgconfig/avoidance.pc

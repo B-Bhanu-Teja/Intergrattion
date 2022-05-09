@@ -1,0 +1,5 @@
+Symlinking /home/traveller/Integration/devel/share/libmavconn/cmake/libmavconnConfig.cmake
+Symlinking /home/traveller/Integration/devel/share/libmavconn/cmake/libmavconn-extras.cmake
+Symlinking /home/traveller/Integration/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake
+Symlinking /home/traveller/Integration/devel/lib/libmavconn.so
+Symlinking /home/traveller/Integration/devel/lib/pkgconfig/libmavconn.pc

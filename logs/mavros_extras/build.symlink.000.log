@@ -1,0 +1,6 @@
+Symlinking /home/traveller/Integration/devel/share/mavros_extras/cmake/mavros_extrasConfig.cmake
+Symlinking /home/traveller/Integration/devel/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake
+Symlinking /home/traveller/Integration/devel/lib/libmavros_extras.so
+Symlinking /home/traveller/Integration/devel/lib/mavros_extras/visualization
+Symlinking /home/traveller/Integration/devel/lib/mavros_extras/servo_state_publisher
+Symlinking /home/traveller/Integration/devel/lib/pkgconfig/mavros_extras.pc

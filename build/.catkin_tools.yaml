@@ -1,0 +1,6 @@
+devel_space: /home/traveller/Integration/devel
+install: false
+install_space: /home/traveller/Integration/install
+profile: default
+source_space: /home/traveller/Integration/src
+workspace: /home/traveller/Integration

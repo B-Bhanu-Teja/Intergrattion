@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target Planner[0m
+[ 14%] Built target Controller
+[ 28%] Built target queryPt
+[ 42%] Built target pcNoise
+[35m[1mScanning dependencies of target noYawPlanner[0m
+[ 57%] Built target pubCamPose
+[ 64%] [32mBuilding CXX object CMakeFiles/Planner.dir/src/kinodynamic_astar.cpp.o[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/noYawPlanner.dir/src/kinodynamic_astar.cpp.o[0m
+[ 78%] [32m[1mLinking CXX executable /home/traveller/Integration/devel/.private/FastPlannerOctomap/lib/FastPlannerOctomap/Planner[0m
+[ 85%] [32m[1mLinking CXX executable /home/traveller/Integration/devel/.private/FastPlannerOctomap/lib/FastPlannerOctomap/noYawPlanner[0m
+[ 92%] Built target noYawPlanner
+[100%] Built target Planner

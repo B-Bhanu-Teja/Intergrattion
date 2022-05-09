@@ -1,0 +1,8 @@
+prefix=/home/traveller/Integration/devel/.private/mavros_msgs
+
+Name: mavros_msgs
+Description: Description of mavros_msgs
+Version: 1.7.1
+Cflags: -I/home/traveller/Integration/devel/.private/mavros_msgs/include -I/home/traveller/Integration/src/Autonomous_Safe_Landing_Drone_Simulation/mavros/mavros_msgs/include
+Libs: -L${prefix}/lib 
+Requires: geographic_msgs geometry_msgs message_runtime sensor_msgs std_msgs

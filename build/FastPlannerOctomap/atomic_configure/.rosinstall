@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/traveller/Integration/devel/.private/FastPlannerOctomap/setup.sh

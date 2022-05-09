@@ -1,0 +1,1 @@
+/home/traveller/Integration/devel/.private/libmavconn/lib/pkgconfig/libmavconn.pc

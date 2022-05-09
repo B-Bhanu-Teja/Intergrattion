@@ -1,0 +1,4 @@
+Symlinking /home/traveller/Integration/devel/share/avoidance/cmake/avoidanceConfig.cmake
+Symlinking /home/traveller/Integration/devel/share/avoidance/cmake/avoidanceConfig-version.cmake
+Symlinking /home/traveller/Integration/devel/lib/libavoidance.so
+Symlinking /home/traveller/Integration/devel/lib/pkgconfig/avoidance.pc
